@@ -16,11 +16,11 @@ Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármel
 Célunk: a hallgatók támogatása.
 
 Ha már feladnád, **adj egy esélyt nekünk** :)  
-  
-  
+<br>
+<br>
 [linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
-  
-  
+<br>
+<br>
 ## Hogyan álljunk hozzá az egyetemhez?
 
 - Az egyetem nem minden, vizsga lesz jövőre is.
