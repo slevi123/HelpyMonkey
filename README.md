@@ -1,2 +1,2 @@
-# HelpyMonkey
-How to avoid mental breakdown during computer science university?
+# Majmocska
+Érdekel a téma, de az egyetem lehetetlen? Közelítsük meg együtt!
