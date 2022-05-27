@@ -44,7 +44,7 @@ recap()
 Traceback (most recent call last):
   File "/sys32/.../.?.", line 3, in 
     await learn(pause=needed)
-RuntimeError: not enough time!! BREAKING DOWN...
+RuntimeError: not enough time! BREAKING DOWN...
 ```
 
 <br>
@@ -60,6 +60,6 @@ RuntimeError: not enough time!! BREAKING DOWN...
 #### Elveszettnek érzed magad?
 Felhívás a bátrabbaknak: Mutassuk meg, hogy senkinek sem olyan könnyű.
 
-Mindenkivel megesik, hogy **elesik**, [olvasd el mások pofáraeséseit].
+Mindenkivel megesik, hogy **elesik**, [olvasd el mások pofáraeséseit]().
 
 ## How to avoid mental breakdown?
