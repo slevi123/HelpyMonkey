@@ -19,12 +19,13 @@ Ha már feladnád, **adj egy esélyt nekünk** :)
 <br>
 <br>
 <br>
+
 ### Tárgyak
 1. félév: [ac]() [analízis]() [algebra]() [algoritmika]() []() 
 2. félév: [linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
 <br>
 <br>
-<br>
+
 ## Hogyan álljunk hozzá az egyetemhez?
 
 - Az egyetem nem minden, vizsga lesz jövőre is.
@@ -49,11 +50,13 @@ RuntimeError: not enough time!! BREAKING DOWN...
 <br>
 <br>
 <br>
+
 #### Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
 Így tanulj: [Keresd a saját tanulási formádat]().
 <br>
 <br>
 <br>
+
 #### Elveszettnek érzed magad?
 Felhívás a bátrabbaknak: Mutassuk meg, hogy senkinek sem olyan könnyű.
 
