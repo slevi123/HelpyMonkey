@@ -4,21 +4,25 @@ Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés 
 
 ❗Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, `visszadobott feladatok` és a már-már `felfoghatatlannak tűnő új anyagok` erdejében❕
 
-- nem is értem a feladatot.
-- azt sem tudom, hol kellene elkezdjem.
-- nem értek semmit.
-- hogyan debugoljam?
-- buta vagyok ehhez!
-- tudod, ez az infó egyetem, ez van.
+- nem is értem a feladatot. 😥
+- azt sem tudom, hol kellene elkezdjem. 😬
+- nem értek semmit. 😭
+- hogyan debugoljam? 😤
+- buta vagyok ehhez! 🤡
+- tudod, ez az infó egyetem, ez van. 🥲
 
 Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!  
 
 Célunk: a hallgatók támogatása.
 
-Ha már feladnád, **adj egy esélyt nekünk** :)  
+Ha már feladnád, **adj egy esélyt nekünk** :)
 <br>
 <br>
+<br>
+### Tárgyak
+1. félév: [ac]() [analízis]() [algebra]() [algoritmika]() []() 
 2. félév: [linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
+<br>
 <br>
 <br>
 ## Hogyan álljunk hozzá az egyetemhez?
@@ -27,42 +31,32 @@ Ha már feladnád, **adj egy esélyt nekünk** :)
 
 Neked is megteltek a👂-ed ezekkel a szavakkal, de úgy érzed, hogy csak az idődet pazarolod a probálkozásokkal?
 
-Olvasd el a [tanárok](), illetve a [majmocska]() tanácsainkat.
+Olvasd el a [tanárok](), illetve a [majmocska]() tanácsait.
 
-## Elveszettnek érzed magad?
+```py
+search()
+load()
+await learn(pause=needed)
+await relax(goal=full)
+recap()
 
-## Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
-
-## How to avoid mental breakdown during computer science university?
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Traceback (most recent call last):
+  File "/sys32/.../.?.", line 3, in 
+    await learn(pause=needed)
+RuntimeError: not enough time!! BREAKING DOWN...
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<br>
+<br>
+<br>
+#### Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
+Így tanulj: [Keresd a saját tanulási formádat]().
+<br>
+<br>
+<br>
+#### Elveszettnek érzed magad?
+Felhívás a bátrabbaknak: Mutassuk meg, hogy senkinek sem olyan könnyű.
 
-### Jekyll Themes
+Mindenkivel megesik, hogy **elesik**, [olvasd el mások pofáraeséseit].
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slevi123/HelpyMonkey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How to avoid mental breakdown?
