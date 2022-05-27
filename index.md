@@ -11,21 +11,23 @@ Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés 
 - buta vagyok ehhez!
 - tudod, ez az infó egyetem, ez van.
 
-Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!
+Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!  
 
-Célunk: az hallgatók támogatása.
+Célunk: a hallgatók támogatása.
 
 Ha már feladnád, **adj egy esélyt nekünk** :)  
   
   
-  
+[linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
   
   
 ## Hogyan álljunk hozzá az egyetemhez?
 
-Az egyetem nem minden, vizsga lesz jövőre is.
+- Az egyetem nem minden, vizsga lesz jövőre is.
 
-Neked is a megtelt a👂-ed ezekkel a szavakkal, de úgy érzed, hogy csak az idődet pazarolod 
+Neked is megteltek a👂-ed ezekkel a szavakkal, de úgy érzed, hogy csak az idődet pazarolod a probálkozásokkal?
+
+Olvasd el a [tanárok](), illetve a mi tanácsainkat.
 
 ## Elveszettnek érzed magad?
 
