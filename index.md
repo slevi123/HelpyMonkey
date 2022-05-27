@@ -18,7 +18,7 @@ Célunk: a hallgatók támogatása.
 Ha már feladnád, **adj egy esélyt nekünk** :)  
 <br>
 <br>
-[linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
+2. félév: [linux]() [oop]() [gráfok]() [geometria]() [adatszerkezetek]()
 <br>
 <br>
 ## Hogyan álljunk hozzá az egyetemhez?
@@ -27,7 +27,7 @@ Ha már feladnád, **adj egy esélyt nekünk** :)
 
 Neked is megteltek a👂-ed ezekkel a szavakkal, de úgy érzed, hogy csak az idődet pazarolod a probálkozásokkal?
 
-Olvasd el a [tanárok](), illetve a mi tanácsainkat.
+Olvasd el a [tanárok](), illetve a [majmocska]() tanácsainkat.
 
 ## Elveszettnek érzed magad?
 
