@@ -51,15 +51,18 @@ RuntimeError: not enough time! BREAKING DOWN...
 <br>
 <br>
 
-#### Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
+### Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
 Így tanulj: [Keresd a saját tanulási formádat]().
 <br>
 <br>
 <br>
 
-#### Elveszettnek érzed magad?
+### Elveszettnek érzed magad?
 Felhívás a bátrabbaknak: Mutassuk meg, hogy senkinek sem olyan könnyű.
 
 Mindenkivel megesik, hogy **elesik**, [olvasd el mások pofáraeséseit]().
+<br>
+<br>
+<br>
 
-## How to avoid mental breakdown?
+## How to avoid mental breakdown here?
