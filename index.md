@@ -66,3 +66,9 @@ Mindenkivel megesik, hogy **elesik**, [olvasd el mások pofáraeséseit]().
 <br>
 
 ## How to avoid mental breakdown here?
+<br>
+<br>
+<br>
+
+### Kérdezz te is tanáraidtól, diáktársaidtól.
+ [Tedd fel a kérdésedet itt]()
