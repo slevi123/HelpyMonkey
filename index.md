@@ -2,7 +2,7 @@
 
 Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés fele.
 
-Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, `visszadobott feladatok` és a már már `felfoghatatlannak tűnő új anyagok` erdejében.
+❕Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, `visszadobott feladatok` és a már-már `felfoghatatlannak tűnő új anyagok` erdejében.
 
 - nem is értem a feladatot.
 - azt sem tudom, hol kellene elkezdjem.
@@ -21,7 +21,7 @@ Ha már feladnád, **adj egy esélyt nekünk** :)
 
 Az egyetem nem minden, vizsga lesz jövőre is.
 
-
+Neked is a megtelt a👂-ed ezekkel a szavakkal, de úgy érzed, hogy csak az idődet pazarolod 
 
 ## Elveszettnek érzed magad?
 
