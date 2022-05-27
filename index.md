@@ -1,11 +1,27 @@
-## Üdv a majmocskán 
+## Üdv a majmocskán 🙉
 
-_Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés fele._
+Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés fele.
 
-Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, [visszadobott feladatok]() és a [már már felfoghatatlannak tűnő új anyagok]() erdejében.
+Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, `visszadobott feladatok` és a már már `felfoghatatlannak tűnő új anyagok` erdejében.
 
-Célunk: az alapszakos informatikusok hallgatók támogatása.
-Ha már feladnád, adj egy esélyt nekünk :)
+- nem is értem a feladatot.
+- azt sem tudom, hol kellene elkezdjem.
+- nem értek semmit.
+- hogyan debugoljam?
+- buta vagyok ehhez!
+- tudod, ez az infó egyetem, ez van.
+
+Ha alapképzésen résztvevő infós hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!
+
+Célunk: az alapszakos informatikus hallgatók támogatása.
+
+Ha már feladnád, **adj egy esélyt nekünk** :)
+
+## Hogyan álljunk hozzá az egyetemhez?
+
+Az egyetem nem minden, vizsga lesz jövőre is.
+
+
 
 ## Elveszettnek érzed magad?
 
