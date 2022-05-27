@@ -15,12 +15,12 @@ Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármel
 
 Célunk: az hallgatók támogatása.
 
-Ha már feladnád, **adj egy esélyt nekünk** :)
-
-
-
-
-
+Ha már feladnád, **adj egy esélyt nekünk** :)  
+  
+  
+  
+  
+  
 ## Hogyan álljunk hozzá az egyetemhez?
 
 Az egyetem nem minden, vizsga lesz jövőre is.
