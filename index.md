@@ -11,11 +11,15 @@ Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés 
 - buta vagyok ehhez!
 - tudod, ez az infó egyetem, ez van.
 
-Ha alapképzésen résztvevő infós hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!
+Ha alapképzéses infó hallgató vagy és a _fent elhangzott gondolatok bármelyike elhagyta már a szádat 🗣️_, akkor érdemes körülnézned ezen az oldalon!
 
-Célunk: az alapszakos informatikus hallgatók támogatása.
+Célunk: az hallgatók támogatása.
 
 Ha már feladnád, **adj egy esélyt nekünk** :)
+
+
+
+
 
 ## Hogyan álljunk hozzá az egyetemhez?
 
