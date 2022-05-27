@@ -1,6 +1,17 @@
+## Üdv a majmocskán 
+
+_Az oldal azért jött létre, hogy együtt keressünk útmutatást a fejlődés fele._
+
+Keressünk együtt egy könnyebb, **járható** ösvényt a sötét, `házikkal töltött éjszakák`, [visszadobott feladatok]() és a [már már felfoghatatlannak tűnő új anyagok]() erdejében.
+
+Célunk: az alapszakos informatikusok hallgatók támogatása.
+Ha már feladnád, adj egy esélyt nekünk :)
+
+## Elveszettnek érzed magad?
+
 ## Nem megy? Sokadikra sem? Azt se tudod hogyan kezdj a debugoláshoz?
 
-Ez az oldal azért jött létre, hogy 
+## How to avoid mental breakdown during computer science university?
 
 ### Markdown
 
